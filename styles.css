@@ -1,0 +1,45 @@
+
+.one{
+    background-color: rgb(221, 221, 221);
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.two{
+    background-color: rgba(243, 160, 243, 0.411);
+}
+.image {
+    border-radius: 20px;
+    width: 100%;               
+    max-width: 600px;                     
+    display: block;           
+    margin: 0 auto;           
+}
+.six {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse; /*this prompt makes the table look like one instead of many*/
+    margin-top: 10px;
+}
+
+th, td {
+    border: none; 
+    padding: auto; /*words dont touch the edges*/
+    text-align: left;
+}
+
+tr {
+    border-bottom: 1px solid #020103; 
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+
